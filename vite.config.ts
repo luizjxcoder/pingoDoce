@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    base: isDev ? "/" : `/${repoName}/`, // ✅ local vs deploy
+    base: "/pingoDoce/",
     resolve: {
       alias: {
         "@": path.resolve(__dirname, "./src"),
