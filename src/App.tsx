@@ -70,7 +70,7 @@ const allDrinks: MenuItem[] = [
                "Cremoso e aromático com canela, noz-moscada e um toque de xarope de melaço escuro.",
           price: "R$ 17,00",
           image:
-               "https://images.unsplash.com/photo-1495521821757-a1efb6729352?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1640735099606-8181a8c8f5a7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D=80",
           accent: "from-[#6B4423] to-[#A87040]",
      },
      {
@@ -97,7 +97,7 @@ const allDrinks: MenuItem[] = [
                "Expressão máxima do nosso café de origem única, dois shots de espresso fresco e intenso.",
           price: "R$ 12,50",
           image:
-               "https://images.unsplash.com/photo-1510591437281-7bcc4d2142a5?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1558416165-5fb04b79b0e7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D=80",
           accent: "from-[#3D2817] to-[#6B4C2E]",
      },
      {
@@ -106,7 +106,7 @@ const allDrinks: MenuItem[] = [
                "Espresso com chocolate belga derretido e uma nuvem de espuma de leite com cacau em pó.",
           price: "R$ 17,50",
           image:
-               "https://images.unsplash.com/photo-1578418588622-d64f19a8c4c1?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1589478877352-e6ae73e58f26?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=1200&q=80",
           accent: "from-[#5C3D2E] to-[#A0694D]",
      },
      {
@@ -115,7 +115,7 @@ const allDrinks: MenuItem[] = [
                "Clássico reinventado com leite fresco cuidadosamente aquecido e espresso de qualidade premium.",
           price: "R$ 13,00",
           image:
-               "https://images.unsplash.com/photo-1495003542555-e885dbf67d0c?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1760306081298-93e10f2be897?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#7A6450] to-[#C5A898]",
      },
 ];
@@ -127,7 +127,7 @@ const pastries: MenuItem[] = [
                "Camadas de manteiga cultivada laminadas por uma noite e pinceladas com cobertura de mel queimado.",
           price: "R$ 12,00",
           image:
-               "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1741525937807-a096ddaeb0d1?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#B17450] to-[#F3D1A5]",
      },
      {
@@ -136,7 +136,7 @@ const pastries: MenuItem[] = [
                "Enrolado com canela, xarope de bordo e nozes torradas, finalizado com sal defumado.",
           price: "R$ 13,50",
           image:
-               "https://images.unsplash.com/photo-1548940740-204726a19be3?auto=format&fit=crop&w=1200&q=80",
+               "https://plus.unsplash.com/premium_photo-1726768902207-56be0e92c50b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#A05A3B] to-[#E8C7A0]",
      },
      {
@@ -145,7 +145,7 @@ const pastries: MenuItem[] = [
                "Massa aromática de bergamota com creme mascarpone, limão em conserva e pétalas cristalizadas.",
           price: "R$ 15,00",
           image:
-               "https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?auto=format&fit=crop&w=1200&q=80",
+               "https://plus.unsplash.com/premium_photo-1716918178946-5922b4e8645d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#7A5336] to-[#DABCA1]",
      },
      {
@@ -154,7 +154,7 @@ const pastries: MenuItem[] = [
                "Bavaroise aveludada com pera caramelizada e espelho de chocolate amargo.",
           price: "R$ 18,00",
           image:
-               "https://images.unsplash.com/photo-1464349153735-7db50ed83c84?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#5A3A2C] to-[#C19A7B]",
      },
      {
@@ -172,7 +172,7 @@ const pastries: MenuItem[] = [
                "Massa choux com creme pâtissier infundido em chá preto e cobertura de caramelo.",
           price: "R$ 14,50",
           image:
-               "https://images.unsplash.com/photo-1551024739-78e9d60c45ca?auto=format&fit=crop&w=1200&q=80",
+               "https://plus.unsplash.com/premium_photo-1715015440855-7d95cf92608a?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#5B3D2B] to-[#B68A6B]",
      },
      {
@@ -181,7 +181,7 @@ const pastries: MenuItem[] = [
                "Merengue crocante com curd de limão siciliano e frutas cítricas em gomos.",
           price: "R$ 13,90",
           image:
-               "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1609105772057-3fa55ed2ceb7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#8C5B3F] to-[#E9C9A4]",
      },
      {
@@ -190,7 +190,7 @@ const pastries: MenuItem[] = [
                "Brownie com três camadas de cacau e flor de sal, finalizado com nibs crocantes.",
           price: "R$ 11,50",
           image:
-               "https://images.unsplash.com/photo-1589308078055-336c214dee2b?auto=format&fit=crop&w=1200&q=80",
+               "https://images.unsplash.com/photo-1599999178983-66ac2ce1e755?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#472D1F] to-[#B08B6F]",
      },
      {
@@ -199,7 +199,7 @@ const pastries: MenuItem[] = [
                "Base de biscoito de amêndoa com cheesecake leve e geleia de lavanda.",
           price: "R$ 16,80",
           image:
-               "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+               "https://plus.unsplash.com/premium_photo-1713895023423-7d1d3a3d2c17?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           accent: "from-[#7C5B4D] to-[#DCC7B3]",
      },
 ];
@@ -268,6 +268,7 @@ function App() {
                { label: "Galeria", href: "#gallery" },
                { label: "Equipe", href: "#baristas" },
                { label: "Quem Somos", href: "#about" },
+               { label: "Trabalhe Conosco", href: "#careers" },
                { label: "Visita", href: "#visit" },
           ],
           [],
@@ -750,8 +751,8 @@ function App() {
                                              >
                                                   <div
                                                        className={`order-1 flex w-full ${isEven
-                                                                 ? "md:order-1 md:justify-end"
-                                                                 : "md:order-3 md:justify-start"
+                                                            ? "md:order-1 md:justify-end"
+                                                            : "md:order-3 md:justify-start"
                                                             }`}
                                                   >
                                                        <div
@@ -784,8 +785,8 @@ function App() {
 
                                                   <div
                                                        className={`order-3 flex w-full ${isEven
-                                                                 ? "md:order-3 md:justify-start"
-                                                                 : "md:order-1 md:justify-end"
+                                                            ? "md:order-3 md:justify-start"
+                                                            : "md:order-1 md:justify-end"
                                                             }`}
                                                   >
                                                        <div className="relative w-full max-w-xs sm:max-w-sm overflow-hidden rounded-[24px] shadow-[0_25px_60px_-45px_rgba(54,33,21,0.7)]">
@@ -807,77 +808,142 @@ function App() {
                          </div>
                     </motion.section>
 
+                    {/*CARREIRAS*/}
+
+                    {/* TÍTULO CARREIRAS FORA DO CARD */}
                     <motion.section
-                         className="relative overflow-hidden rounded-[36px] border border-[#e1d3c0]/70 bg-[#f8f1e7]/95 p-10 shadow-[0_45px_90px_-60px_rgba(42,23,13,0.75)]"
+                         id="careers"
+                         className="relative overflow-hidden rounded-[36px] border border-[#e7d7c3]/70 bg-[#f8f1e7]/95 p-10 shadow-[0_45px_90px_-60px_rgba(42,23,13,0.75)]"
                          style={{
                               backgroundImage:
-                                   "linear-gradient(140deg, rgba(47,27,18,0.65) 0%, rgba(90,60,45,0.55) 45%, rgba(125,89,65,0.45) 100%), url('https://public.youware.com/users-website-assets/prod/c8d83d64-ab08-43af-b839-829913645e37/bc4a7100124e4357a6cf3d5d0185f581.jpg')",
+                                   "linear-gradient(140deg, rgba(255,220,186,0.65) 0%, rgba(255,210,180,0.5) 40%, rgba(250,190,150,0.4) 100%), url('https://public.youware.com/users-website-assets/prod/c8d83d64-ab08-43af-b839-829913645e37/c259be75384e413ebfe1d560541a260e.jpg')",
                               backgroundSize: "cover",
                               backgroundPosition: "center",
                          }}
                          {...sectionTransition}
                     >
-                         <div className="absolute inset-0 bg-[#2f1b12]/35" />
+
+                         <div className="absolute inset-0 bg-white/35" />
+                         <div className="relative z-10 mb-8 text-center md:text-left">
+                              <p
+                                   className="text-xs uppercase tracking-[0.35em] text-[#c26c38]"
+                                   style={{
+                                        textAlign: "center"
+                                   }}>Equipe PINGO DOCE</p>
+
+                         </div>
+
+                         <h2 className="relative z-10 mb-10 text-center font-serif text-5xl tracking-wide text-[#2f1b12]">
+                              Trabalhe Conosco
+                         </h2>
+
+                         <div className="absolute inset-0 bg-white/35" />
+
                          <div className="relative z-10 grid gap-6 md:grid-cols-2 md:grid-rows-2">
-                              <div className="flex items-center justify-center rounded-[24px] border border-white/25 bg-white/10 p-6 text-[#f7f1e9] shadow-[0_25px_60px_-40px_rgba(10,8,6,0.85)] backdrop-blur">
-                                   <div className="relative">
-                                        <div className="absolute inset-0 rounded-full bg-gradient-to-br from-white/35 via-white/20 to-transparent blur-xl" />
-                                        <div className="relative flex h-36 w-36 items-center justify-center rounded-full border-4 border-white/70 bg-gradient-to-br from-[#f9f3ea]/90 via-[#f0e2ce]/80 to-[#d7b899]/70 text-center text-[#5a3c2d] shadow-[0_20px_60px_-40px_rgba(12,8,5,0.65)]">
-                                             <div className="space-y-1">
-                                                  <p className="text-[0.55rem] uppercase tracking-[0.45em] text-[#8c6a4f]">Selo</p>
-                                                  <p className="font-serif text-2xl leading-none">Qualidade</p>
-                                                  <p className="text-[0.62rem] uppercase tracking-[0.35em] text-[#5a3c2d]">Maison du Café</p>
-                                             </div>
-                                        </div>
+
+                              {/* CARD PRINCIPAL  Trabalhe Conosco*/}
+                              <div className="rounded-[24px] border border-white/25 bg-white/60 p-6 text-[#5a3c2d] shadow-[0_25px_60px_-40px_rgba(10,8,6,0.35)] backdrop-blur">
+
+                                   <h3 className="mt-0 font-serif text-4xl text-[#2f1b12]">
+                                        Traga sua energia e alegria para nossa cozinha de sonhos
+                                   </h3>
+
+                                   <p className="mt-3 text-sm leading-relaxed text-[#5c4030]">
+                                        Buscamos pessoas apaixonadas por hospitalidade, doces autorais e experiências calorosas.
+                                        Aqui, cada equipe compartilha histórias, aprende novas técnicas e celebra conquistas com
+                                        sorriso no rosto.
+                                   </p>
+                              </div>
+
+                              {/* CARD VAGAS */}
+                              <div className="flex items-center justify-center rounded-[24px] border border-white/20 bg-white/45 p-6 text-[#5a3c2d] shadow-[0_25px_60px_-40px_rgba(10,8,6,0.35)] backdrop-blur">
+                                   <div className="space-y-3 text-center">
+                                        <p className="font-serif text-3xl text-[#2f1b12]">Vagas Abertas</p>
+                                        <p className="text-sm leading-relaxed text-[#5c4030]">
+                                             Baristas criativos, confeiteiras com afeto e anfitriões acolhedores para jornadas
+                                             integrais e parciais.
+                                        </p>
+                                        <a
+                                             href="mailto:talentos@pingodoce.com"
+                                             className="inline-flex items-center justify-center rounded-full bg-[#f08142] px-5 py-2 text-sm font-semibold text-white shadow-[0_18px_35px_-25px_rgba(240,129,66,0.85)] transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#d76f35]"
+                                        >
+                                             Enviar portfólio
+                                        </a>
                                    </div>
                               </div>
 
-                              <div className="space-y-4 rounded-[24px] border border-white/15 bg-white/12 p-6 text-[#fef9f3] shadow-[0_25px_60px_-40px_rgba(12,8,5,0.65)] backdrop-blur">
-                                   <span className="inline-flex max-w-fit items-center gap-2 rounded-full bg-white/20 px-4 py-1.5 text-xs font-semibold tracking-[0.35em] text-[#f6e5d3]">
-                                        Nossa História de Sucesso
-                                   </span>
-                                   <h3 className="font-serif text-4xl text-white">
-                                        Sabores premiados, memórias construídas com afeto
-                                   </h3>
-                                   <p className="text-sm leading-relaxed text-[#f4e7da]">
-                                        Desde a inauguração em 2019, cada xícara servida combina técnicas artesanais e hospitalidade calorosa. Crescemos lado a lado com produtores parceiros, conquistamos selos regionais e nos tornamos refúgio de experiências memoráveis.
+                              {/* CARD TEXTO */}
+                              <div className="space-y-4 rounded-[24px] border border-white/20 bg-white/50 p-6 text-[#5a3c2d] shadow-[0_25px_60px_-40px_rgba(10,8,6,0.35)] backdrop-blur">
+                                   <p className="text-sm leading-relaxed text-[#5c4030]">
+                                        Somos uma casa acolhedora que oferece treinamentos contínuos, degustações internas
+                                        semanais e benefícios alinhados aos nossos valores de bem-estar. Se você vibra com sabores
+                                        artesanais e camaradagem, queremos conhecer sua história.
+                                   </p>
+                                   <p className="text-xs uppercase tracking-[0.4em] text-[#c26c38]">
+                                        Cresça conosco — aprendizados, viagens e experiências sensoriais exclusivas
                                    </p>
                               </div>
 
-                              <div className="space-y-4 rounded-[24px] border border-white/15 bg-white/12 p-6 text-[#fef9f3] shadow-[0_25px_60px_-40px_rgba(12,8,5,0.65)] backdrop-blur">
-                                   <p className="text-sm leading-relaxed text-[#f4e7da]">
-                                        O selo Maison du Café simboliza o compromisso com ingredientes rastreáveis, processos sustentáveis e acolhimento afetivo. Cada etapa do preparo é pensada para preservar aromas, texturas e histórias compartilhadas à mesa.
-                                   </p>
-                                   <p className="text-xs uppercase tracking-[0.4em] text-[#f0d6b8]">
-                                        Compromisso com sabor, ética e comunidade
-                                   </p>
-                              </div>
-
-                              <div className="grid gap-4 rounded-[24px] border border-white/15 bg-white/12 p-6 text-[#fef9f3] shadow-[0_25px_60px_-40px_rgba(12,8,5,0.65)] backdrop-blur">
+                              {/* HIGHLIGHTS */}
+                              <div className="grid gap-4 rounded-[24px] border border-white/20 bg-white/50 p-6 text-[#5a3c2d] shadow-[0_25px_60px_-40px_rgba(10,8,6,0.35)] backdrop-blur">
                                    {[
                                         {
-                                             metric: "+15 prêmios",
-                                             label: "Gastronomia artesanal",
+                                             metric: "Ambiente alegre",
+                                             label: "Dinâmicas de equipe semanais",
                                         },
                                         {
-                                             metric: "98%",
-                                             label: "Satisfação dos visitantes",
+                                             metric: "Mentorias criativas",
+                                             label: "Workshops com chefs convidados",
                                         },
                                         {
-                                             metric: "12 parceiros",
-                                             label: "Produtores locais",
+                                             metric: "Ritual de staff",
+                                             label: "Sessão de café especial toda sexta",
                                         },
                                    ].map((highlight) => (
                                         <div
                                              key={highlight.metric}
-                                             className="flex items-center justify-between rounded-2xl bg-white/14 px-4 py-3 text-[#fef9f3]"
+                                             className="flex items-center justify-between rounded-2xl bg-white/65 px-4 py-3"
                                         >
-                                             <p className="font-serif text-2xl text-white">{highlight.metric}</p>
-                                             <p className="text-[0.68rem] uppercase tracking-[0.32em] text-[#f0d6b8] text-right">
+                                             <p className="font-serif text-xl text-[#2f1b12]">{highlight.metric}</p>
+                                             <p className="text-[0.68rem] uppercase tracking-[0.32em] text-[#c26c38] text-right">
                                                   {highlight.label}
                                              </p>
                                         </div>
                                    ))}
+                              </div>
+                         </div>
+                    </motion.section>
+
+
+                    <motion.section id="visit" className="relative overflow-hidden rounded-[36px] bg-[#f6efe6]/95 p-10 shadow-[0_40px_90px_-65px_rgba(42,23,13,0.8)]" {...sectionTransition}>
+                         <div className={`${organicBlobClass} -left-24 top-0 h-56 w-56 bg-[#c7ae91]/45`} />
+                         <div className={`${organicBlobClass} bottom-0 right-[-10%] h-64 w-64 bg-[#8a6347]/40`} />
+                         <div className="relative z-10 grid gap-10 md:grid-cols-[1.2fr_0.8fr]">
+                              <div className="space-y-6">
+                                   <p className="text-xs uppercase tracking-[0.4em] text-[#9b7d60]">Visite-nos</p>
+                                   <h3 className="font-serif text-4xl text-[#2f1b12]">Um refúgio para manhãs tranquilas e encontros noturnos</h3>
+                                   <p className="text-sm leading-relaxed text-[#5c4030]">Localizado no adorável Shopping Pátio Pinda em Pindamonhangaba/SP, nosso espaço é revestido em linho, madeira recuperada e o aroma de doces caseiros recém-feitos. Reserve uma sessão de degustação, organize um workshop exclusivo ou simplesmente visite para um momentinho restaurador.</p>
+                                   <div className="grid gap-6 sm:grid-cols-3">
+                                        {[
+                                             { title: "Localização", detail: "Shopping Pátio Pinda, São Paulo" },
+                                             { title: "Horário", detail: "Diariamente 8:00am – 8:00pm" },
+                                             { title: "Contato", detail: "oi@pingodoce.com" },
+                                        ].map((info) => (
+                                             <div key={info.title} className="rounded-3xl bg-white/65 p-4 text-sm text-[#5c4030] shadow-[0_20px_50px_-40px_rgba(66,41,25,0.6)]">
+                                                  <p className="text-[0.65rem] uppercase tracking-[0.32em] text-[#9b7d60]">{info.title}</p>
+                                                  <p className="mt-2 font-serif text-lg text-[#2f1b12]">{info.detail}</p>
+                                             </div>
+                                        ))}
+                                   </div>
+                              </div>
+                              <div className="relative overflow-hidden rounded-[28px]">
+                                   <img
+                                        alt="Espaço aconchego da doceria"
+                                        className="h-full w-full object-cover"
+                                        src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80"
+                                        loading="lazy"
+                                   />
+                                   <div className="absolute inset-0 bg-gradient-to-t from-[#2f1b12]/50 via-transparent to-transparent" />
                               </div>
                          </div>
                     </motion.section>
